@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- 
 ### [![Typing SVG] -->
 
-<div align="center" > <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&background=51FFB700&center=true&vCenter=true&lines=Hello%2C+I+am+Daniel+Li;Full+Stack+Web+Developer" /> </div>
+<div align="center" > <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&background=51FFB700&center=true&vCenter=true&lines=Hello%2C+I+am+Vincent+Lau;Full+Stack+Web+Developer" /> </div>
 
 <div align="center"> 
  <h2>A little about me :innocent: : </h2>
