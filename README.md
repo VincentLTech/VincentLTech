@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 <h2 align="center">
 :cd: Technologies Used for JavaScript:
- </h2>
+</h2>
 
 <br/>
 
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 <h2 align="center">
 :cd: Technologies Used for TypeScript:
  </h2>
-
 <br/>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -63,8 +62,8 @@ Here are some ideas to get you started:
 <h2 align="center">
 :cd: Others:
  </h2>
-
 <br/>
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -82,7 +81,6 @@ Here are some ideas to get you started:
 <a align="center" href = "https://www.linkedin.com/in/vincent-lau-cs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a align="center" href = "https://www.instagram.com/vincent.lau.984991/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a align="center" href = "https://www.facebook.com/vincent.lau.984991"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-</div>
 <!-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DLi53@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DanielLi52/) -->
 
