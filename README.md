@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="center"> :e-mail: Contact Me <h2>
-<a href = "https://www.linkedin.com/in/vincent-lau-cs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a align="center" href = "https://www.linkedin.com/in/vincent-lau-cs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 <!-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DLi53@outlook.com)
