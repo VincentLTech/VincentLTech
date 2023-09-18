@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<h2 align="center">
-:cd: Technologies Used for JavaScript:
-</h2>
+<h2 align="center">:cd: Technologies Used for JavaScript:</h2>
 
 <br/>
 
