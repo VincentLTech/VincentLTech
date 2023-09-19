@@ -69,9 +69,12 @@ Here are some ideas to get you started:
 <a align="center" href = "https://www.facebook.com/vincent.lau.984991"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <!-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DLi53@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DanielLi52/) -->
+<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=alexpablo-code&&style=flat-square" align="center" />
-</div>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GalacticKnight&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 <!-- hmmmmm -->
