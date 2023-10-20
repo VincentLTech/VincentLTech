@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <li> 🎓 I am a Full Stack Software Engineer </li>
 <li> 💻 I'm currently open for work</li>
 <li> 🔭 I’m currently working on website clones, building websites for my college clubs, perfecting TypeScript and looking for colleagues</li>
-<li> 🌱 I’m currently mastering Flask and MERN stack and also TypeScript</li>
+<li> 🌱 I’m currently mastering MERN stack and along with TypeScript</li>
 <li> 👯 I’m looking to collaborate on fullstack projects</li>
 <li> 📫 How to reach me: Email: electricplasma411@gmail.com 📫 </li>
 </div>
