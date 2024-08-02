@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <li> 🔭 I’m currently working on website clones, building websites for my college clubs, perfecting TypeScript and looking for colleagues</li>
 <li> 🌱 I’m currently mastering MERN stack and along with TypeScript</li>
 <li> 👯 I’m looking to collaborate on fullstack projects</li>
-<li> 📫 How to reach me: Email: electricplasma411@gmail.com 📫 </li>
+<li> 📫 How to reach me: Email: vincent.lau.cs@gmail.com 📫 </li>
 </div>
 
 <br>
