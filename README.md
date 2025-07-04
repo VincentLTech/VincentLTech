@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <li> 📫 How to reach me: Email: vincent.lau.cs@gmail.com 📫 </li>
 </div>
 
+<!--
 <br>
  <h2>:cd: Languages:</h2>
 <br/>
@@ -65,6 +66,10 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+-->
+
+
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
 <h2 align="center"> :e-mail: Contact Me <h2>
 <a align="center" href = "https://www.linkedin.com/in/vincent-lau-cs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a align="center" href = "https://www.instagram.com/vincent.lau.984991/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
