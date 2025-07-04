@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <br>
  <h2>:cd: Languages:</h2>
 <br/>
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
